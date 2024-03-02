@@ -17,6 +17,7 @@ To contribute to this project, kindly reach out to the creator at oderinde.kehin
 
 ### Known issues
 * Source CSV files not hosted on shared storage/bucket for easy access by script. Hence manual document requests are still required
+* Code tests not implemented as yet
 
 ### Date created
 This README was created on 2nd of March, 2024
