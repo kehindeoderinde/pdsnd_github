@@ -15,5 +15,8 @@ Before running this project, the following conditions need to be met:
 ### Contributions
 To contribute to this project, kindly reach out to the creator at oderinde.kehinde.samuel@gmail.com first. Then, if ageed to proceed, you can form the main project, create a topic-branch based on the improvements suggested. Create a pull request to our main branch and we would have a review on this. Thank you
 
+### Known issues
+* Source CSV files not hosted on shared storage/bucket for easy access by script. Hence manual document requests are still required
+
 ### Date created
 This README was created on 2nd of March, 2024
