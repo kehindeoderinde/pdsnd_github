@@ -250,7 +250,7 @@ def main():
         city, month, day = get_filters()
         df = load_data(city, month, day)
         
-        # Prompt user if they want to see rows of data. Default num_of_rows is 5
+        # Prompt user if they want to see rows of data. Default num_of_rows is 5. You can provide whatever value you wish
         df = display_data(df)
 
         time_stats(df)
