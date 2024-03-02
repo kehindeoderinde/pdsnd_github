@@ -1,17 +1,19 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
-### Date created
-Include the date you created this project and README file.
-
-### Project Title
-Replace the Project Title
+### UK Bikeshare Data Project
 
 ### Description
-Describe what your project is about and what it does
+This project contains a Python script that takes an input of certain US cities (chicago, new york city and washington) and returns important analysis about their bikeshare data.
 
-### Files used
-Include the files used
+### Requirements
+Before running this project, the following conditions need to be met:
+* You have Python & PIP installed on your computer. You can check by running python --version & pip --version in command line
+* You have requested for original data files (CSV) from creator of this script. You can send an email to oderinde.kehinde.samuel@gmail.com. These files must be placed in root folder of repository
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Install & Run Instructions
+* Run `pip install -r requirements.txt`. This will install required packages to run script
+* Run `python bikeshare.py`. This will run the program
 
+### Contributions
+To contribute to this project, kindly reach out to the creator at oderinde.kehinde.samuel@gmail.com first. Then, if ageed to proceed, you can form the main project, create a topic-branch based on the improvements suggested. Create a pull request to our main branch and we would have a review on this. Thank you
+
+### Date created
+This README was created on 2nd of March, 2024
